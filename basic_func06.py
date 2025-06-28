@@ -1,6 +1,6 @@
 # Task: Create a function called return_string that returns a string value
 def return_string():
-    return(str())
+    return "Hello World"
 print(return_string())
 # Function should:
 # 1. Take no parameters
