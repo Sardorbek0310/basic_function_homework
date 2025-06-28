@@ -1,4 +1,7 @@
 # Task: Create a function called return_string that returns a string value
+def return_string():
+    return(str())
+print(return_string())
 # Function should:
 # 1. Take no parameters
 # 2. Return any string value
