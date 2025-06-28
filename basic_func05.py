@@ -1,6 +1,6 @@
 # Task: Create a function called return_float that returns a float value
 def return_float():
-    return (float())
+    return 1.5
 print(return_float())
 # Function should:
 # 1. Take no parameters
